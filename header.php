@@ -30,6 +30,7 @@
 			<?php simple_life_the_custom_logo(); ?>
   			<h1 class="site-title text-center"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 			<p class="site-description text-center"><?php bloginfo( 'description' ); ?></p>
+			<p>Coucou</p>
 		</div>
 		<?php if ( get_header_image() ) : ?>
 		<div id="site-header">
