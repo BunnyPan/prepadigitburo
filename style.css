@@ -1,0 +1,29 @@
+/*
+Theme Name: Simple life child
+Description: Theme enfant de Erika
+Author: Erika
+Author URI: https://www.wpserveur.net
+Template: simple-life 
+Version: 0.1.0
+*/
+
+.main-navigation {
+    clear: both;
+    display: block;
+    width: 100%;
+    background-color: 00863D;
+}
+
+input[type="submit"] {
+    border: medium none;
+    background: none repeat scroll 0 0 #00863D
+}
+
+.site-title {
+    font-family: sans-serif;
+    font-size: 1.5em;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+}
+
